@@ -1,3 +1,3 @@
-![preview](https://github.com/jacksonspindle/YuGiOh-Card-Generator/blob/main/read-me-preview.png?raw=true)
+![preview](https://raw.githubusercontent.com/jacksonspindle/YuGiOh-Card-Generator/main/public/read-me-preview.png)
 
 ### `npm start`
